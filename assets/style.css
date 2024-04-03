@@ -246,6 +246,18 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+footer {
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+footer h3 {
+	margin-bottom: 20px;
+}
+footer ul {
+	list-style-type: none;
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
